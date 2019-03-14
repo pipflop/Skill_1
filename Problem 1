@@ -8,7 +8,6 @@ int main()
 	int sideline;
 	int premium;
 	int gen_ad;
-	float total_sale;
 
 	cout<<"Ticket Prices                Number of Tickets Sold" <<endl<<endl;
 	cout<<"Box: 250"<<"                          ";
